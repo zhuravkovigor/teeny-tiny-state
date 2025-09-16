@@ -1,6 +1,6 @@
 {
   "name": "teeny-tiny-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A teeny tiny reactive state library",
   "main": "dist/teeny-tiny-state.umd.js",
   "module": "dist/teeny-tiny-state.es.js",
