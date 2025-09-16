@@ -4,9 +4,9 @@
 ![bundle size](https://img.shields.io/bundlephobia/minzip/teeny-tiny-state)
 ![license](https://img.shields.io/npm/l/teeny-tiny-state)
 
-A teeny tiny reactive state library for JavaScript — lighter than a feather (0.5 KB).
+A teeny tiny reactive state **utility** for JavaScript — lighter than a feather (0.5 KB).
 
-Minimal, fun, and only what you really need.
+Minimal, fun, and only what you really need to make your state reactive.
 
 ---
 
