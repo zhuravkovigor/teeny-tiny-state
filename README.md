@@ -1,6 +1,11 @@
 # Teeny Tiny State TTS
 
+[![npm](https://img.shields.io/npm/v/teeny-tiny-state)](https://www.npmjs.com/package/teeny-tiny-state)
+![bundle size](https://img.shields.io/bundlephobia/minzip/teeny-tiny-state)
+![license](https://img.shields.io/npm/l/teeny-tiny-state)
+
 A teeny tiny reactive state library for JavaScript — lighter than a feather (0.5 KB).
+
 Minimal, fun, and only what you really need.
 
 ---
