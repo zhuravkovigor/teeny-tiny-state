@@ -1,0 +1,23 @@
+{
+  "name": "teeny-tiny-state",
+  "version": "0.1.0",
+  "description": "A teeny tiny reactive state library",
+  "main": "dist/teeny-tiny-state.umd.js",
+  "module": "dist/teeny-tiny-state.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "reactive",
+    "state",
+    "tiny",
+    "minimal",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
